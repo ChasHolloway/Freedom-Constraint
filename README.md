@@ -7,7 +7,7 @@ This public repository contains six documents introducing the scientific foundat
 
 ## Repository Contents
 
-1. FC Process Explains how the Freedom-Constraint Equation is translated into an operational process for calibration, optimization, and real-time control.
+1. FC Process  Explains how the Freedom-Constraint Equation is translated into an operational process for calibration, optimization, and real-time control.
 
 2. FC Operational Definitions Defines the fundamental variables, relationships, and terminology used throughout the FC framework.
 
