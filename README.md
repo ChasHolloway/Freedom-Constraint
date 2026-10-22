@@ -3,7 +3,7 @@
 
 The Freedom-Constraint (FC) Equation and Process, discovered and developed by Chas Holloway, is a fundamental law of system dynamics. FC provides a universal mathematical and operational method for calibrating, optimizing, and controlling dynamic systems. It increases operational efficiency while radically simplifying control system design.
 
-This public repository contains six documents introducing the scientific foundations, operational principles, and experimental applications of FC.
+This public repository contains seven documents introducing the scientific foundations, operational principles, and experimental applications of FC.
 
 ## Repository Contents
 
@@ -27,4 +27,4 @@ This repository provides an introduction to FC for engineers, scientists, resear
 
 For additional technical information, research inquiries, or commercial discussions, contact:
 
-Chas Holloway chas@freeworldstheory.com
+Chas Holloway chas@freeworldtheory.com
